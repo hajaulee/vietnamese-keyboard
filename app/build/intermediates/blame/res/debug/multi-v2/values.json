@@ -1,0 +1,42 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\Android\\Project\\VietnameseKeyboard\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "F:\\Android\\Project\\VietnameseKeyboard\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,1,-1,-1,-1,-1",
+                        "startColumns": "-1,4,-1,-1,-1,-1",
+                        "startOffsets": "-1,17,-1,-1,-1,-1",
+                        "endColumns": "-1,51,-1,-1,-1,-1",
+                        "endOffsets": "-1,64,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,100,152,196,245,298",
+                        "endColumns": "44,51,43,48,52,52",
+                        "endOffsets": "95,147,191,240,293,346"
+                    }
+                },
+                {
+                    "source": "F:\\Android\\Project\\VietnameseKeyboard\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "8,11",
+                        "startColumns": "4,4",
+                        "startOffsets": "351,434",
+                        "endLines": "10,13",
+                        "endColumns": "12,12",
+                        "endOffsets": "429,501"
+                    }
+                }
+            ]
+        }
+    ]
+}
