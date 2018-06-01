@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "F:\\Android\\Project\\VietnameseKeyboard\\app\\build\\intermediates\\res\\merged\\release\\layout_main.xml.flat",
+        "source": "F:\\Android\\Project\\VietnameseKeyboard\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "F:\\Android\\Project\\VietnameseKeyboard\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "F:\\Android\\Project\\VietnameseKeyboard\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Android\\Project\\VietnameseKeyboard\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "F:\\Android\\Project\\VietnameseKeyboard\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Android\\Project\\VietnameseKeyboard\\app\\build\\intermediates\\res\\merged\\release\\xml_qwerty.xml.flat",
+        "source": "F:\\Android\\Project\\VietnameseKeyboard\\app\\src\\main\\res\\xml\\qwerty.xml"
+    },
+    {
+        "merged": "F:\\Android\\Project\\VietnameseKeyboard\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\Android\\Project\\VietnameseKeyboard\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Android\\Project\\VietnameseKeyboard\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "F:\\Android\\Project\\VietnameseKeyboard\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Android\\Project\\VietnameseKeyboard\\app\\build\\intermediates\\res\\merged\\release\\xml_symbol.xml.flat",
+        "source": "F:\\Android\\Project\\VietnameseKeyboard\\app\\src\\main\\res\\xml\\symbol.xml"
+    },
+    {
+        "merged": "F:\\Android\\Project\\VietnameseKeyboard\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "F:\\Android\\Project\\VietnameseKeyboard\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Android\\Project\\VietnameseKeyboard\\app\\build\\intermediates\\res\\merged\\release\\xml_vietnam.xml.flat",
+        "source": "F:\\Android\\Project\\VietnameseKeyboard\\app\\src\\main\\res\\xml\\vietnam.xml"
+    },
+    {
+        "merged": "F:\\Android\\Project\\VietnameseKeyboard\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Android\\Project\\VietnameseKeyboard\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Android\\Project\\VietnameseKeyboard\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Android\\Project\\VietnameseKeyboard\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Android\\Project\\VietnameseKeyboard\\app\\build\\intermediates\\res\\merged\\release\\layout_preview.xml.flat",
+        "source": "F:\\Android\\Project\\VietnameseKeyboard\\app\\src\\main\\res\\layout\\preview.xml"
+    },
+    {
+        "merged": "F:\\Android\\Project\\VietnameseKeyboard\\app\\build\\intermediates\\res\\merged\\release\\xml_method.xml.flat",
+        "source": "F:\\Android\\Project\\VietnameseKeyboard\\app\\src\\main\\res\\xml\\method.xml"
+    },
+    {
+        "merged": "F:\\Android\\Project\\VietnameseKeyboard\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "F:\\Android\\Project\\VietnameseKeyboard\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Android\\Project\\VietnameseKeyboard\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "F:\\Android\\Project\\VietnameseKeyboard\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Android\\Project\\VietnameseKeyboard\\app\\build\\intermediates\\res\\merged\\release\\layout_keyboard.xml.flat",
+        "source": "F:\\Android\\Project\\VietnameseKeyboard\\app\\src\\main\\res\\layout\\keyboard.xml"
+    }
+]
