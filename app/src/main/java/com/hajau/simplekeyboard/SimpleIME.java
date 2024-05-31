@@ -40,7 +40,7 @@ public class SimpleIME extends InputMethodService implements OnKeyboardActionLis
     Runnable inputMessage = new Runnable() {
         @Override
         public void run() {
-            getCurrentInputConnection().commitText("Con lên đến nhà trọ rồi",1);
+            getCurrentInputConnection().commitText("Con lên đến nhà trọ rồi", 1);
         }
     };
 
@@ -243,14 +243,14 @@ public class SimpleIME extends InputMethodService implements OnKeyboardActionLis
         if (primaryCode == '.') {
             handler.postDelayed(switchKeyboardTask, LONG_PRESS_DELAY);
         }
-        if (primaryCode == ','){
+        if (primaryCode == ',') {
             handler.postDelayed(inputMessage, LONG_PRESS_DELAY);
         }
     }
 
     @Override
     public void onRelease(int primaryCode) {
-        if(isLongPressed)
+        if (isLongPressed)
             getCurrentInputConnection().deleteSurroundingText(1, 0);
         handler.removeCallbacks(switchKeyboardTask);
         handler.removeCallbacks(inputMessage);

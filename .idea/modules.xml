@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/VietnameseKeyboard.iml" filepath="$PROJECT_DIR$/VietnameseKeyboard.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Keyboard.iml" filepath="$PROJECT_DIR$/.idea/modules/Keyboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Keyboard.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Keyboard.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Keyboard.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Keyboard.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Keyboard.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Keyboard.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Keyboard.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Keyboard.app.unitTest.iml" />
     </modules>
   </component>
 </project>

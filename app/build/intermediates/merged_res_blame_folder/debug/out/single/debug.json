@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "com.hajau.simplekeyboard.app-merged_res-5:/layout_preview.xml.flat",
+        "source": "com.hajau.simplekeyboard.app-main-7:/layout/preview.xml"
+    },
+    {
+        "merged": "com.hajau.simplekeyboard.app-merged_res-5:/xml_method.xml.flat",
+        "source": "com.hajau.simplekeyboard.app-main-7:/xml/method.xml"
+    },
+    {
+        "merged": "com.hajau.simplekeyboard.app-merged_res-5:/layout_keyboard.xml.flat",
+        "source": "com.hajau.simplekeyboard.app-main-7:/layout/keyboard.xml"
+    },
+    {
+        "merged": "com.hajau.simplekeyboard.app-merged_res-5:/xml_vietnam.xml.flat",
+        "source": "com.hajau.simplekeyboard.app-main-7:/xml/vietnam.xml"
+    },
+    {
+        "merged": "com.hajau.simplekeyboard.app-merged_res-5:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "com.hajau.simplekeyboard.app-main-7:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.hajau.simplekeyboard.app-merged_res-5:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "com.hajau.simplekeyboard.app-main-7:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.hajau.simplekeyboard.app-merged_res-5:/xml_qwerty.xml.flat",
+        "source": "com.hajau.simplekeyboard.app-main-7:/xml/qwerty.xml"
+    },
+    {
+        "merged": "com.hajau.simplekeyboard.app-merged_res-5:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.hajau.simplekeyboard.app-main-7:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.hajau.simplekeyboard.app-merged_res-5:/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "com.hajau.simplekeyboard.app-main-7:/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.hajau.simplekeyboard.app-merged_res-5:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.hajau.simplekeyboard.app-main-7:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.hajau.simplekeyboard.app-merged_res-5:/xml_symbol.xml.flat",
+        "source": "com.hajau.simplekeyboard.app-main-7:/xml/symbol.xml"
+    },
+    {
+        "merged": "com.hajau.simplekeyboard.app-merged_res-5:/layout_main.xml.flat",
+        "source": "com.hajau.simplekeyboard.app-main-7:/layout/main.xml"
+    },
+    {
+        "merged": "com.hajau.simplekeyboard.app-merged_res-5:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.hajau.simplekeyboard.app-main-7:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.hajau.simplekeyboard.app-merged_res-5:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "com.hajau.simplekeyboard.app-main-7:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.hajau.simplekeyboard.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.hajau.simplekeyboard.app-main-7:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.hajau.simplekeyboard.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.hajau.simplekeyboard.app-main-7:/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

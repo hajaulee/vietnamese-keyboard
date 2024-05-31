@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.hajau.simplekeyboard.app-mergeDebugResources-3:/values-da/values-da.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\lecon\\.gradle\\caches\\transforms-3\\3c466ff62160b3f810e2677a5e2cf8d3\\transformed\\support-compat-28.0.0\\res\\values-da\\values-da.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
