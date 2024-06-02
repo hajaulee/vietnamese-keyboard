@@ -1,4 +1,0 @@
-#Sun Feb 25 23:52:48 ICT 2018
-base.0=F\:\\Android\\Project\\VietnameseKeyboard\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
-path.0=classes.dex
-renamed.0=classes.dex
