@@ -17,4 +17,22 @@
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
     </style>
 
+
+    <!-- Keyboard Style [IME] -->
+    <style name="KeyboardStyle">
+        <item name="android:background">@color/keyboard_background</item>
+        <item name="android:keyBackground">@drawable/key_background</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:keyTextSize">@dimen/key_text_size</item>
+        <item name="android:keyTextColor">@color/key_text</item>
+        <item name="android:labelTextSize">@dimen/key_text_size</item>
+        <item name="android:shadowColor">@color/key_text</item>
+        <item name="android:shadowRadius">1.1</item>
+    </style>
+
+    <style name="PopupKeyboardStyle" parent="KeyboardStyle">
+        <item name="android:background">@drawable/popup_background</item>
+        <item name="android:keyBackground">@drawable/popup_key_background</item>
+    </style>
+
 </resources>

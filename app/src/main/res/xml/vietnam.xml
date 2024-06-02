@@ -1,8 +1,8 @@
 <Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
-    android:keyWidth="11.1%p"
-    android:horizontalGap="10px"
-    android:verticalGap="1px"  
-    android:keyHeight="40dp"
+    android:keyWidth="10%p"
+    android:horizontalGap="0dp"
+    android:verticalGap="@dimen/key_margin"
+    android:keyHeight="36dp"
 >
     <Row>
         <Key android:codes="259" android:keyLabel="ă" android:keyEdgeFlags="left"/>
@@ -17,7 +17,7 @@
         <Key android:codes="803" android:keyLabel=" ̣" android:keyEdgeFlags="right"/>
     </Row>
     <Row>
-        <Key android:codes="97" android:keyLabel="a" android:keyEdgeFlags="left"/>     
+        <Key android:codes="97" android:keyLabel="a" android:keyEdgeFlags="left" android:horizontalGap="5%p"/>
         <Key android:codes="98" android:keyLabel="b"/>
         <Key android:codes="99" android:keyLabel="c"/>
         <Key android:codes="100" android:keyLabel="d"/>
@@ -25,10 +25,10 @@
         <Key android:codes="101" android:keyLabel="e"/>
         <Key android:codes="103" android:keyLabel="g"/>
         <Key android:codes="104" android:keyLabel="h"/>
-        <Key android:codes="105" android:keyLabel="i" android:keyEdgeFlags="right"/>
+        <Key android:codes="105" android:keyLabel="i" />
     </Row>
     <Row>
-        <Key android:codes="107" android:keyLabel="k" android:keyEdgeFlags="left"/>
+        <Key android:codes="107" android:keyLabel="k" android:keyEdgeFlags="left"  android:horizontalGap="5%p"/>
         <Key android:codes="108" android:keyLabel="l"/>
         <Key android:codes="109" android:keyLabel="m"/>
         <Key android:codes="110" android:keyLabel="n"/>
@@ -39,19 +39,20 @@
         <Key android:codes="115" android:keyLabel="s" android:keyEdgeFlags="right"/>
     </Row>
     <Row>
-        <Key android:codes="-1" android:keyLabel="⇧" android:keyWidth="20%p" android:keyEdgeFlags="left"/>
+        <Key android:codes="-1" android:keyLabel="⇧" android:keyWidth="20%p" android:keyEdgeFlags="left" android:isSticky="true"/>
         <Key android:codes="116" android:keyLabel="t"/>
         <Key android:codes="117" android:keyLabel="u"/>   
         <Key android:codes="432" android:keyLabel="ư"/>
         <Key android:codes="118" android:keyLabel="v"/>
         <Key android:codes="120" android:keyLabel="x"/>
-        <Key android:codes="121" android:keyLabel="y"/>
+        <Key android:codes="121" android:keyLabel="y" android:popupKeyboard="@xml/keyboard_popup_template" android:popupCharacters="fjwz"/>
         <Key android:codes="-5" android:keyLabel="Xóa" android:isRepeatable="true" android:keyWidth="20%p" android:keyEdgeFlags="right"/>    
     </Row>
     <Row android:rowEdgeFlags="bottom">
-        <Key android:codes="1998" android:keyLabel="Số" android:keyWidth="20%p"  android:keyEdgeFlags="left"/>   
+        <Key android:codes="1998" android:keyLabel="Số" android:keyWidth="15%p"  android:keyEdgeFlags="left"/>
         <Key android:codes="44" android:keyLabel="," android:keyWidth="10%p" />
-        <Key android:codes="32" android:keyLabel="Dấu cách" android:keyWidth="40%p" android:isRepeatable="true"/>        
+        <Key android:codes="1999" android:keyIcon="@drawable/browser" android:keyWidth="10%p" />
+        <Key android:codes="32" android:keyLabel="Dấu cách" android:keyWidth="35%p" android:isRepeatable="true"/>
         <Key android:codes="46" android:keyLabel="." android:keyWidth="10%p" />
         <Key android:codes="-4" android:keyLabel="Xong" android:keyWidth="20%p" android:keyEdgeFlags="right"/>
     </Row>    

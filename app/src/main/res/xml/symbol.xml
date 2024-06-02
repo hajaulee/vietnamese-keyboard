@@ -1,8 +1,8 @@
 <Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
     android:keyWidth="10%p"
-    android:horizontalGap="5px"
-    android:verticalGap="2px"  
-    android:keyHeight="45dp"
+    android:horizontalGap="0dp"
+    android:verticalGap="@dimen/key_margin"
+    android:keyHeight="36dp"
 >
     <Row>
         <Key android:codes="49" android:keyLabel="1" android:keyEdgeFlags="left"/>
@@ -18,7 +18,7 @@
     </Row>
     <Row>
         <Key android:codes="43" android:keyLabel="+" android:keyEdgeFlags="left"/>
-        <Key android:codes="45" android:keyLabel="-"/>
+        <Key android:codes="45" android:keyLabel="-" android:popupKeyboard="@xml/keyboard_popup_template" android:popupCharacters="~"/>
         <Key android:codes="215" android:keyLabel="×"/>
         <Key android:codes="247" android:keyLabel="÷"/>
         <Key android:codes="58" android:keyLabel=":"/>
@@ -30,7 +30,7 @@
     </Row>
      <Row>
         <Key android:codes="42" android:keyLabel="*" android:keyEdgeFlags="left"/>        
-        <Key android:codes="36,126" android:keyLabel="$"/>
+        <Key android:codes="36" android:keyLabel="$" android:popupKeyboard="@xml/keyboard_popup_template" android:popupCharacters="₫¥£€"/>
         <Key android:codes="92" android:keyLabel="\\"/>
         <Key android:codes="124" android:keyLabel="|"/>
         <Key android:codes="47" android:keyLabel="/"/>

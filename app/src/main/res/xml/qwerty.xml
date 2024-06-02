@@ -1,8 +1,9 @@
 <Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
-    android:keyWidth="11.1%p"
-    android:horizontalGap="10px"
-    android:verticalGap="15px"  
-    android:keyHeight="50dp">
+    android:keyWidth="10%p"
+    android:horizontalGap="0dp"
+    android:verticalGap="@dimen/key_margin"
+    android:keyHeight="36dp"
+    >
     <Row>
         <Key android:codes="113" android:keyLabel="q" android:keyEdgeFlags="left"/>
         <Key android:codes="119" android:keyLabel="w"/>
@@ -16,7 +17,7 @@
         <Key android:codes="112" android:keyLabel="p" android:keyEdgeFlags="right"/>
     </Row>
     <Row>
-        <Key android:codes="97" android:keyLabel="a" android:keyEdgeFlags="left"/>
+        <Key android:codes="97" android:keyLabel="a" android:keyEdgeFlags="left"  android:horizontalGap="5%p"/>
         <Key android:codes="115" android:keyLabel="s"/>
         <Key android:codes="100" android:keyLabel="d"/>
         <Key android:codes="102" android:keyLabel="f"/>
@@ -38,9 +39,10 @@
         <Key android:codes="-5" android:keyLabel="Xóa" android:isRepeatable="true" android:keyWidth="20%p" android:keyEdgeFlags="right"/>    
     </Row>
     <Row android:rowEdgeFlags="bottom">
-        <Key android:codes="1998" android:keyLabel="Số" android:keyWidth="20%p"  android:keyEdgeFlags="left"/>   
+        <Key android:codes="1998" android:keyLabel="Số" android:keyWidth="15%p"  android:keyEdgeFlags="left"/>
         <Key android:codes="44" android:keyLabel="," android:keyWidth="10%p" />
-        <Key android:codes="32" android:keyLabel="Dấu cách" android:keyWidth="40%p" android:isRepeatable="true"/>        
+        <Key android:codes="1999" android:keyIcon="@drawable/browser" android:keyWidth="10%p" />
+        <Key android:codes="32" android:keyLabel="Dấu cách" android:keyWidth="35%p" android:isRepeatable="true"/>
         <Key android:codes="46" android:keyLabel="." android:keyWidth="10%p" />
         <Key android:codes="-4" android:keyLabel="Xong" android:keyWidth="20%p" android:keyEdgeFlags="right"/>
     </Row>    

@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <color name="ic_launcher_background">#131313</color>
+
+    <color name="keyboard_background">#ECECEC</color>
+    <color name="key_background">#fefefe</color>
+    <color name="key_text">#444444</color>
+    <color name="key_highlight">#E0E0E0</color>
+    <color name="key_shadow">#d0d0d0</color>
+    <color name="popup_key_highlight">#8080ff</color>
+
 </resources>

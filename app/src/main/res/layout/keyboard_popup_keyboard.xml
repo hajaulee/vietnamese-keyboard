@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    >
 
-</TextView>
+    <com.hajau.simplekeyboard.CustomPopupKeyboardView
+        style="@style/PopupKeyboardStyle"
+        android:id="@android:id/keyboardView"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:keyPreviewLayout="@null"
+        android:keyTextSize="18sp"
+        android:padding="@dimen/key_board_padding"
+        />
+</LinearLayout>

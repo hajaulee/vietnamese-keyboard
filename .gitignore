@@ -1,4 +1,5 @@
 app/build/intermediates
 app/build/tmp
 
+.gradle/
 .idea

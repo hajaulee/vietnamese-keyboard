@@ -17,7 +17,7 @@
         </activity>
 
         <service
-            android:name=".SimpleIME"
+            android:name=".MainIME"
             android:exported="true"
             android:label="@string/simple_ime"
             android:permission="android.permission.BIND_INPUT_METHOD" >
