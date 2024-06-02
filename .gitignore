@@ -1,2 +1,4 @@
-app\build\intermediates
-app\build\tmp
+app/build/intermediates
+app/build/tmp
+
+.idea
