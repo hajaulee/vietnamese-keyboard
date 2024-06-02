@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">HaJaU Keyboard</string>
-    <string name="simple_ime">HaJaU IME</string>
+    <string name="app_name">Bàn phím tiếng Việt</string>
+    <string name="simple_ime">Gõ Tiếng Việt AĂÂ</string>
     <string name="subtype_en_US">Tiếng Việt</string>
     <string name="subtype_vi_VN">Tiếng Việt</string>
-    <string name="active">Kích hoạt</string>
-    <string name="select">Lựa chọn</string>
+    <string name="active">1. Kích hoạt</string>
+    <string name="select">2. Đổi bàn phím</string>
 </resources>
