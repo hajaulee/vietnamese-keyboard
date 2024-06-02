@@ -20,6 +20,12 @@ attr layout_insetEdge
 attr layout_keyline
 attr statusBarBackground
 attr ttcIndex
+color ic_launcher_background
+color key_background
+color key_highlight
+color key_shadow
+color key_text
+color keyboard_background
 color notification_action_color_filter
 color notification_icon_bg_color
 color notification_material_background_media_default_color
@@ -34,6 +40,10 @@ dimen compat_button_padding_vertical_material
 dimen compat_control_corner_material
 dimen compat_notification_large_icon_max_height
 dimen compat_notification_large_icon_max_width
+dimen key_board_padding
+dimen key_margin
+dimen key_padding
+dimen key_text_size
 dimen notification_action_icon_size
 dimen notification_action_text_size
 dimen notification_big_circle_margin
@@ -54,6 +64,9 @@ dimen subtitle_outline_width
 dimen subtitle_shadow_offset
 dimen subtitle_shadow_radius
 drawable ic_launcher
+drawable key_background
+drawable key_preview_background
+drawable key_with_shadow
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -96,6 +109,7 @@ id icon_group
 id info
 id italic
 id keyboard
+id keyboard2
 id left
 id line1
 id line3
@@ -122,6 +136,7 @@ id top
 integer cancel_button_image_alpha
 integer status_bar_notification_info_maxnum
 layout keyboard
+layout keyboard_popup_keyboard
 layout main
 layout notification_action
 layout notification_action_tombstone
@@ -149,6 +164,9 @@ string subtype_en_US
 string subtype_vi_VN
 style AppBaseTheme
 style AppTheme
+style KeyPopupTextViewStyle
+style KeyboardKeyOverlay
+style KeyboardStyle
 style TextAppearance_Compat_Notification
 style TextAppearance_Compat_Notification_Info
 style TextAppearance_Compat_Notification_Info_Media
@@ -169,6 +187,7 @@ styleable FontFamily fontProviderAuthority fontProviderCerts fontProviderFetchSt
 styleable FontFamilyFont android_font android_fontWeight android_fontStyle android_ttcIndex android_fontVariationSettings font fontStyle fontVariationSettings fontWeight ttcIndex
 styleable GradientColor android_startColor android_endColor android_type android_centerX android_centerY android_gradientRadius android_tileMode android_centerColor android_startX android_startY android_endX android_endY
 styleable GradientColorItem android_color android_offset
+xml keyboard_popup_template
 xml method
 xml qwerty
 xml symbol
