@@ -197,9 +197,6 @@ public class MainIME extends InputMethodService implements OnKeyboardActionListe
         if (primaryCode == 1999) {
             handler.postDelayed(switchKeyboardTask, LONG_PRESS_DELAY);
         }
-        if (primaryCode == ',') {
-            handler.postDelayed(inputMessage, LONG_PRESS_DELAY);
-        }
     }
 
     @Override
