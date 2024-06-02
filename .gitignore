@@ -1,5 +1,6 @@
 app/build/intermediates
 app/build/tmp
+app/build/outputs/logs/
 
 .gradle/
 .idea
